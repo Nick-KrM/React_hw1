@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 2% 5%;
+}
+
+.title {
+    font-size: 44px;
+}
