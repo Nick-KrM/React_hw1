@@ -13,7 +13,7 @@ import transactions from '../dataJson/transactions.json';
 export default function App() {
   return (
     <>
-      <Section title="Best manager!"></Section>
+      <Section title="React HomeWork-1"></Section>
       <Section>
         <Profile
           username={user.username}
